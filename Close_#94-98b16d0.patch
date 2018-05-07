@@ -1,0 +1,29 @@
+From 98b16d05e76db020d99b81993e75a355bddbed9f Mon Sep 17 00:00:00 2001
+From: TJ Ferry <tjtech1014@gmail.com>
+Date: Mon, 16 Oct 2017 17:00:45 -0400
+Subject: [PATCH] Close #94
+
+---
+ Pythonista Apps in the Apple AppStore.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/Pythonista Apps in the Apple AppStore.md b/Pythonista Apps in the Apple AppStore.md
+index 0417ece..90e1c2f 100644
+--- a/Pythonista Apps in the Apple AppStore.md
++++ b/Pythonista Apps in the Apple AppStore.md
+@@ -20,6 +20,7 @@ Paid Pythonista made apps
+ | -------------      | ------------- |
+ | [Servr][] | Servr is the simplest way to run a multipurpose web server from your iPhone or iPod touch  |
+ | [Hotspotsystem vouchers][] | RESTful API client app for Hotspotsystem.com |
++| [QNH][] | Give essential informations to pilots, like the weather report and airport information|
+ 
+ 
+ [1]: https://github.com/Pythonista-Tools/Pythonista-Tools/issues/new
+@@ -31,3 +32,4 @@ Paid Pythonista made apps
+ [Third Law]: https://itunes.apple.com/app/third-law/id1054853024?mt=8
+ [Black & White]: https://appsto.re/gb/ERkSbb.i
+ [Hotspotsystem vouchers]: https://itunes.apple.com/ca/app/hotspotsystem-vouchers/id1180444770?mt=8
++[QNH]: https://itunes.apple.com/us/app/qnh/id1218922617?l=fr&ls=1&mt=8
+--
+Working Copy 3.3.5
+
